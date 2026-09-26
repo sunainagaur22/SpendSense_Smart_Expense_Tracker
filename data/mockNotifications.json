@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sms_001",
+    "raw": "INR 250.00 spent on Zomato. Your SBI Card ending 4521. Avl Bal: INR 45,230.00. Call 1800111 to dispute.",
+    "timestamp": "2025-04-05T08:45:00"
+  },
+  {
+    "id": "sms_002",
+    "raw": "Rs. 1,200 debited from HDFC A/c XX8821 via UPI to Amazon. UPI Ref: 4021938471. Avl Bal: Rs. 32,100.50",
+    "timestamp": "2025-04-05T10:15:00"
+  },
+  {
+    "id": "sms_003",
+    "raw": "Paid Rs. 80 to Uber via UPI on 05-Apr-2025. Transaction ID: UPI2025040512345. Balance: Rs. 18,450.00",
+    "timestamp": "2025-04-05T12:30:00"
+  },
+  {
+    "id": "sms_004",
+    "raw": "INR 3,500.00 credited to your ICICI Bank A/c XX9923 by SALARY APRIL 2025. Avl Bal: INR 58,750.00",
+    "timestamp": "2025-04-04T09:00:00"
+  },
+  {
+    "id": "sms_005",
+    "raw": "Rs. 499 deducted for Netflix subscription renewal. ICICI Bank A/c XX9923. Date: 04-Apr-2025.",
+    "timestamp": "2025-04-04T11:00:00"
+  },
+  {
+    "id": "sms_006",
+    "raw": "INR 650 spent at Swiggy on 03-Apr-2025. Axis Bank Card XX7714. Remaining Limit: INR 48,350.",
+    "timestamp": "2025-04-03T19:20:00"
+  },
+  {
+    "id": "sms_007",
+    "raw": "Rs. 2,100 debited from Kotak Bank A/c XX3310 to Myntra via UPI. Balance: Rs. 9,900.00. Date: 03/04/2025",
+    "timestamp": "2025-04-03T14:55:00"
+  },
+  {
+    "id": "sms_008",
+    "raw": "Payment of Rs. 450 made to Ola. SBI UPI. Ref No: 987654321. Available Balance: Rs. 22,080.00",
+    "timestamp": "2025-04-03T08:10:00"
+  },
+  {
+    "id": "sms_009",
+    "raw": "INR 1,800 debited from SBI A/c XX4521 for ELECTRICITY BILL via Paytm. Bal: INR 20,280.00. 02-Apr-2025",
+    "timestamp": "2025-04-02T16:40:00"
+  },
+  {
+    "id": "sms_010",
+    "raw": "Rs. 320 spent on BigBasket. HDFC Bank Debit Card XX8821. Avl Bal: Rs. 31,780.50. 02-Apr-2025 10:22",
+    "timestamp": "2025-04-02T10:22:00"
+  },
+  {
+    "id": "sms_011",
+    "raw": "INR 180 debited from ICICI A/c via UPI to Rapido. Txn ID: 56781234. Balance: INR 58,570.00. 01-Apr-2025",
+    "timestamp": "2025-04-01T18:05:00"
+  },
+  {
+    "id": "sms_012",
+    "raw": "You have spent Rs. 3,499 at Flipkart. HDFC Credit Card XX5566. Available Credit: Rs. 96,501. 01-Apr-2025",
+    "timestamp": "2025-04-01T13:30:00"
+  },
+  {
+    "id": "sms_013",
+    "raw": "Rs. 750 paid to Apollo Pharmacy via GPay. SBI A/c XX4521. Balance: INR 19,530.00. 31-Mar-2025",
+    "timestamp": "2025-03-31T15:00:00"
+  },
+  {
+    "id": "sms_014",
+    "raw": "INR 2,200 debited from Axis A/c XX7714 to MakeMyTrip for flight booking. Avl Bal: INR 46,150. 30-Mar-2025",
+    "timestamp": "2025-03-30T11:20:00"
+  },
+  {
+    "id": "sms_015",
+    "raw": "Rs. 99 debited for Spotify Premium. Kotak Bank A/c XX3310. Date: 30-Mar-2025. Balance: Rs. 9,801.00",
+    "timestamp": "2025-03-30T09:00:00"
+  },
+  {
+    "id": "sms_016",
+    "raw": "INR 560 spent on Blinkit groceries. ICICI Bank Card XX9923. 29-Mar-2025. Avl Bal: INR 58,010.00",
+    "timestamp": "2025-03-29T17:45:00"
+  },
+  {
+    "id": "sms_017",
+    "raw": "Rs. 1,100 paid to Reliance Digital via Paytm UPI. SBI A/c XX4521. Bal: INR 18,430.00. 28-Mar-2025",
+    "timestamp": "2025-03-28T14:10:00"
+  },
+  {
+    "id": "sms_018",
+    "raw": "Cashback of Rs. 50 credited to HDFC A/c XX8821 from Amazon Pay. Date: 28-Mar-2025.",
+    "timestamp": "2025-03-28T12:00:00"
+  },
+  {
+    "id": "sms_019",
+    "raw": "INR 400 debited from Axis A/c XX7714 via UPI to Starbucks. Avl Bal: INR 45,750. 27-Mar-2025 09:15",
+    "timestamp": "2025-03-27T09:15:00"
+  },
+  {
+    "id": "sms_020",
+    "raw": "Rs. 5,000 debited from SBI A/c XX4521 — RENT PAYMENT via NEFT. Balance: INR 13,430. 26-Mar-2025",
+    "timestamp": "2025-03-26T10:00:00"
+  }
+]
