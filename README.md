@@ -1,1 +1,3 @@
-# SpendSense_Smart_Expense_Tracker
+## SpendSense_Smart_Expense_Tracker
+
+SpendSense is a smart expense-tracking and budget management dashboard designed to help users manage their monthly finances efficiently. The platform allows users to set a monthly budget and track their expenses through multiple input methods, including **SMS, manual keyboard entry, and AI-powered voice input**. The dashboard organizes and displays expense information to give users a clear view of their spending. It also monitors the set budget and provides **notifications when expenses reach or exceed the defined limit**. The project focuses on providing a simple, interactive, and user-friendly interface that makes expense tracking easier and helps users maintain better control over their monthly spending.
